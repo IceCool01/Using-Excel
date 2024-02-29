@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikit\\source\\repos\\Using_Excel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F36A7864-B64D-4D3B-942B-2829BE9111D8}|Using_Excel\\Using_Excel.csproj|c:\\users\\nikit\\source\\repos\\using_excel\\using_excel\\services\\filereadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36A7864-B64D-4D3B-942B-2829BE9111D8}|Using_Excel\\Using_Excel.csproj|solutionrelative:using_excel\\services\\filereadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36A7864-B64D-4D3B-942B-2829BE9111D8}|Using_Excel\\Using_Excel.csproj|c:\\users\\nikit\\source\\repos\\using_excel\\using_excel\\mobels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36A7864-B64D-4D3B-942B-2829BE9111D8}|Using_Excel\\Using_Excel.csproj|solutionrelative:using_excel\\mobels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36A7864-B64D-4D3B-942B-2829BE9111D8}|Using_Excel\\Using_Excel.csproj|c:\\users\\nikit\\source\\repos\\using_excel\\using_excel\\mobels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36A7864-B64D-4D3B-942B-2829BE9111D8}|Using_Excel\\Using_Excel.csproj|solutionrelative:using_excel\\mobels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileReadService.cs",
+              "DocumentMoniker": "C:\\Users\\nikit\\source\\repos\\Using_Excel\\Using_Excel\\Services\\FileReadService.cs",
+              "RelativeDocumentMoniker": "Using_Excel\\Services\\FileReadService.cs",
+              "ToolTip": "C:\\Users\\nikit\\source\\repos\\Using_Excel\\Using_Excel\\Services\\FileReadService.cs",
+              "RelativeToolTip": "Using_Excel\\Services\\FileReadService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowEUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:15:54.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\nikit\\source\\repos\\Using_Excel\\Using_Excel\\Mobels\\Product.cs",
+              "RelativeDocumentMoniker": "Using_Excel\\Mobels\\Product.cs",
+              "ToolTip": "C:\\Users\\nikit\\source\\repos\\Using_Excel\\Using_Excel\\Mobels\\Product.cs",
+              "RelativeToolTip": "Using_Excel\\Mobels\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:14:37.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\nikit\\source\\repos\\Using_Excel\\Using_Excel\\Mobels\\Order.cs",
+              "RelativeDocumentMoniker": "Using_Excel\\Mobels\\Order.cs",
+              "ToolTip": "C:\\Users\\nikit\\source\\repos\\Using_Excel\\Using_Excel\\Mobels\\Order.cs",
+              "RelativeToolTip": "Using_Excel\\Mobels\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:13:56.819Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
